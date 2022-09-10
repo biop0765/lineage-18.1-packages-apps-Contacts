@@ -15,6 +15,7 @@
 -->
 <resources>
     <color name="ic_add_contact_shortcut_background">#F5F5F5</color>
+    <color name="ic_launcher_background">#F5F5F5</color>
 
     <!-- 87% black -->
     <color name="quantum_black_text">#dd000000</color>
